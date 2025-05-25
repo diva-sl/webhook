@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scenic-torch-448711-a2",
+  "private_key_id": "06949dc486e77bfd2499bb64c0b94e4a96024a91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGesV8oeNJvlFI\nsIqlp0K74bocRQ9uIV+zczulJ/JQtSkIigb4c5MANa29aNTY3rOepYCwJtiC0Q+r\nOXEk2xvAxnF43+g6OIYqIR5DjjV362SwYKNIzNt4ThCy7eGksWzQqHycLRiUGbKi\n+J/iBOT4e+S6Oy99UsHTJjGehbP9IeXUVUzvPhYznitq7AL00jQHxoG1E6eiovph\nJ5Fy2juUMqjawQkHzWfVDh5+JTWQupCLmITEqCnVZ7y44py8zaiXOjnglukXkJbf\nwJmlXI7kc7C/mOI/VW+POcJmwnuMdQAQJoqYr7Z1PaE38tH1mxO4HbgHnk77z+VV\nBW/+o6gRAgMBAAECggEAAwpmdB5WyQ5tWFu8BAWn9BDlNQGp1toUCT++ri0KfUoJ\nMuRKbwv2OI6Z9sjgWeIvhkKq0ggGURq6zri2jwX8Stu/aUak3B95jrOrLwXCs++b\nP0h7t+XLhvBLOTKDvm4paJjsL8hRFBPAtNZyPJgumc/sFR5K//SAm6d+IxuRQlN3\ntdC0nefoqxHZtoaPvkrVApZjV77/z6M8ulv0+jK5oVYY2U749vg+Ly7NoPrCYQVJ\nFX+OKeyBkp3yKjKkL/VCp+GKs57Y5mxYK64LEEN9ib+hiOWi1rEf3BE5FwT6QBsH\nP7bYtizx3zWJgZUXX2ZRWZ0oHAcMpp9xSaWf83LlMQKBgQDhlgpinSHrx3wXgbnR\nbELR+6Sp6+BBypfvxlf5FVPH5xS2czgAc6Skc3EiqBIwPiPGeXXYIrmR+XwUDpKC\nvg4FouXBxjq1iz68K/gNyDp8uh2hyQC7c8j+E5/0EcxLz+83uVzKrG6XK9MdiqD4\nI2ZZoamuV90AQt3mUG/9ScOZDwKBgQDhPSqtesXWB4no+nb4M0AB0BxASydFjdTk\ndetNXJTGRiywQt0bdkYL8SuQzMvKOS0zbskB7b7JCfCPIXAhfd6WbKFTFufMNlRA\nsCi9QG8gINvZyvL96ifXK8VeFC31UyUOA6PncGvyXvwuOm0lK4cmN3iysP1PUOO9\ndxeXJmFs3wKBgQC2GhC4GnBPjPE3aJk/3UzzhVgfczHM6mZMQKizgevn6zplLg1/\nD9tQhYBGobZNC1yF03a1yxJSLDtlVX4f3JwlIKKoEgVCl+1EqZnMRl4wYW2aNFBL\nAeS2ddEhjVyFto09Rn0Jfrinf9Ekf8wBg1IT+NSo0HSuyUunqDc/GFS1MQKBgELX\nvSeYjMeUmyfJ1K6ZvwAKu6eU5gWtLqXSHM9rjzc8Mhzo6ucwdV8r5irlrADKcRCX\naw2oeXr9+Sbw3G8EBJ+Ng16+KHIhGWXNIXnwekoFllkO8ofKCqK/eaYOxQjN8Ow0\nxlpzsYVPDPXHHwbt4QDFa4tUHQiBz+Q1SInxuO3vAoGBAJMtK4tCZ3MgbOKI0Ch8\nVR0pV9HD7dl0Jubv+MULbbMFphWpLFfaqQKc4HuNxLnDuDJNuuujo/QuNYYEMGvr\nPnCtWmH6glvIulBYJZNgrF8k8bZpFnEZo/I+2RM1/cdqQRkHl2/SM8Wp5UIfZest\nxlIY532nxhCTha09TizkDpHq\n-----END PRIVATE KEY-----\n",
+  "client_email": "trading-view-nifty@scenic-torch-448711-a2.iam.gserviceaccount.com",
+  "client_id": "104691375624228920024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trading-view-nifty%40scenic-torch-448711-a2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
