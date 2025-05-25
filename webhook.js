@@ -48,6 +48,10 @@ app.post('/webhook', async (req, res) => {
     res.status(500).send('Internal Server Error: Failed to log signal');
   }
 });
+app.get('/', (req, res) => {
+  res.send('Webhook server is running!');
+});
+
 
 // 🌐 Start Server
 const PORT = process.env.PORT || 3000;
