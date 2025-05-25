@@ -1,17 +1,17 @@
-import fs from 'fs';
 import express from 'express';
 import { google } from 'googleapis';
+import dotenv from 'dotenv';
+
+dotenv.config(); // Load .env values
 
 const app = express();
 app.use(express.json());
 
-const credentials = JSON.parse(fs.readFileSync('./scenic-torch-448711-a2-06949dc486e7.json', 'utf8'));
-
-// 🔐 Google Auth Setup
+// 🔐 Google Auth Setup using .env
 const client = new google.auth.JWT(
-  credentials.client_email,
+  process.env.GOOGLE_CLIENT_EMAIL,
   null,
-  credentials.private_key.replace(/\\n/g, '\n'), // Fix multiline private key issue
+  process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
   ['https://www.googleapis.com/auth/spreadsheets']
 );
 
